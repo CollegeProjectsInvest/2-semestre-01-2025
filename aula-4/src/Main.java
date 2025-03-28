@@ -44,16 +44,16 @@ public class Main {
 //        System.out.println(nomes.isEmpty());
 
         // HashMap
-        HashMap<String, String> agenda = new HashMap<>();
-        agenda.put("651918131", "Marcos");
-        agenda.put("651918130", "João");
-
-        System.out.println(agenda);
-
-        System.out.println(agenda.get("651918130"));
-        System.out.println(agenda.containsValue("Marcos"));
-        System.out.println(agenda.size());
-        agenda.remove("651918131");
-        System.out.println(agenda);
+//        HashMap<String, String> agenda = new HashMap<>();
+//        agenda.put("651918131", "Marcos");
+//        agenda.put("651918130", "João");
+//
+//        System.out.println(agenda);
+//
+//        System.out.println(agenda.get("651918130"));
+//        System.out.println(agenda.containsValue("Marcos"));
+//        System.out.println(agenda.size());
+//        agenda.remove("651918131");
+//        System.out.println(agenda);
     }
 }
