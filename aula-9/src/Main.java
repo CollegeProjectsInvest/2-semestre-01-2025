@@ -3,8 +3,9 @@ class Cliente {
     private String cpf;
     private int idade;
 
-    public void cadastrar() {
+    public void pegarDados() {
         System.out.println(this.nome);
+        System.out.println(this.cpf);
     }
 
     // Get e Set
